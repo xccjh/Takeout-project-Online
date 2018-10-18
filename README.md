@@ -1,3 +1,4 @@
+# A vuex+mock.js+postman+stylus+sms Exercise project
 ## 启动后台应用
 ~~~
 	 安装依赖：npm i
